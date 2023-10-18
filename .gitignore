@@ -1,0 +1,5 @@
+# Ignorar archivos de registro
+*.log
+
+# Ignorar directorios de dependencias de Node.js
+node_modules/
